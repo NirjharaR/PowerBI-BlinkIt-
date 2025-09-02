@@ -7,8 +7,8 @@ The dashboard provides key insights into total sales, average sales, ratings, ou
 ---
 
 ## Dashboard Preview
-![Blinkit Dashboard] - 
-![Dashboard Screenshot] - 
+![Blinkit Dashboard] - BLINKIT_da.pbix
+![Dashboard Screenshot] - dashboard.png
 
 ---
 
@@ -23,9 +23,9 @@ The dashboard provides key insights into total sales, average sales, ratings, ou
 ---
 
 ## Files in this Repository
-- Blinkit_Dashboard.pbix → Power BI project file  
+- BLINKIT_da.pbix → Power BI project file  
 - README.md → Project documentation  
-- c721a3ed-d981-4f8f-b40b-036666395add.png → Dashboard screenshot  
+- dashboard.png → Dashboard screenshot  
 
 ---
 
@@ -54,6 +54,6 @@ This dashboard can help businesses like Blinkit or other retail chains to:
 
 ## Connect
 If you liked this project and want similar dashboards for your business:  
-- [Your Freelance Profile Link]  
-- [Your Email]  
-- [Portfolio or Website]  
+- https://www.freelancer.com/u/Nirjhara1R?sb=t  
+- nirjhara.raghuwanshi@gmail.com  
+ 
