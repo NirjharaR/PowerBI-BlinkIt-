@@ -7,8 +7,8 @@ The dashboard provides key insights into total sales, average sales, ratings, ou
 ---
 
 ## Dashboard Preview
-![Blinkit Dashboard] - BLINKIT_da.pbix
-![Dashboard Screenshot] - dashboard.png
+### Screenshot
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
